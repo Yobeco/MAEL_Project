@@ -3,6 +3,7 @@
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
 **Auteur** : Yonnel Bécognée, instituteur
+**Co-auteur** : François Varlet
 
 :fr: Présentation du projet MAEL
 
@@ -24,15 +25,17 @@ J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux suppo
 
 Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Personnellement, je l'utilise tous les jours.
 
-- J'ai donc créé un petit générateur (en python) de code QR plus pratique qu'un site web.
+- J'ai donc créé un petit générateur (en python) de codes QR plus pratique qu'un site web.
 - J'ai ajouté un mode "Dicter" qui cache le texte lu par MAEL Scan.
 - J'ai ajouté un mode "Épeler" qui épelle les lettres au lieu de lire le texte.
 - J'ai ajouté un encryptage léger du code QR (pour les petits malins qui utilisent un lecteur de code QR standard pour préparer leur dictée :stuck_out_tongue_winking_eye: )
+- J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecteur et dictée pour le moment)
 
-Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à créer une application (en JavaScript) qui permet de créer des phrases en tout en toute autonomie à partir d'images.)
+Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application (en JavaScript) qui permet de créer des phrases en toute autonomie à partir d'images.
 
 Ce fut la naissance de MAEL Phrase.
 
+Petite vidéo résumant où en est MAEL actuellement :
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
@@ -40,17 +43,17 @@ Ce fut la naissance de MAEL Phrase.
 
 :fire: Plusieurs travaux les plus urgents actuellement :
 
-1- MAEL Scan nécessite une version iOS car il y a pas mal d'utilisateur qui ont un iPhone (Déjà commencée en Kotlin).
+1- **MAEL Scan** nécessite une version **iOS** car il y a pas mal d'utilisateurs qui ont un iPhone (Déjà commencée en Kotlin).
 
-2- MAEL Phrase n'est qu'une petite page limitée (entre autre pas l'usage de Gemini 2.5). Elle a besoin de devenir une véritable plateforme avec suivi des activités des élèves.
+2- **MAEL Phrase** n'est qu'une petite page limitée (entre autre pas l'usage de Gemini 2.5). Elle a besoin de devenir une véritable **plateforme avec suivi des activités des élèves**.
 
-3- MAEL Scan pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un Raspberry pi.
-
-4- J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecteur et dictée pour le moment)
+3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi**.
 
 :eyeglasses: Voir la liste exhaustive des développements nécessaires.
 
-## 4- Conclusion :checkered_flag:
+
+## 4- Conclusion :checkered_flag:
+
 
 Je ne suis qu'un instit qui s'est autoformé en programmation. 
 
