@@ -84,7 +84,7 @@ C'est la première application créée.
 
 :ear: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
 
-:musical_note: Le code QR peut contenur un texte qui sera lu par une voix de syhtèse oubien un lien vers un fichier .mp3 (pour le moment hébergé sur un Google Drive).
+:musical_note: Le code QR peut contenir un texte qui sera lu par une voix de syhtèse ou bien un lien vers un fichier .mp3 (pour le moment hébergé sur un Google Drive).
 
 ---
 
@@ -92,9 +92,9 @@ C'est la première application créée.
 
 ![](./readme_assets/Android-MITai-150px.png)
 
-La première version a été développée en [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks). Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
+La première version a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks). Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
 
-D'autre part, seule une compilation pour Android n'est possible, pas mal de familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL.
+D'autre part, seule une compilation pour Android est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL.
 
 ---
 
@@ -104,9 +104,9 @@ D'autre part, seule une compilation pour Android n'est possible, pas mal de fami
 
 [Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer des applications multiplateformes à partir du même code source.
 
-Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une version iOS de MAEL, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le Back End de MAEL Phrase)
+Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une version iOS de MAEL, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
 
-Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation d'un module de lecture de code QR et d'un module pour la synthèse vocale.
+Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation d'un module de lecture de code QR et l'implémentation d'un module pour la synthèse vocale.
 
 ---
 
@@ -114,9 +114,11 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
-Étant conscient des problèmes que posent l'utilisation excessive d'un téléphone portable dés un jeune âge, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et décole élémentaire.
+Étant conscient des problèmes que pose l'utilisation excessive du téléphone portable chez les plus jeues, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
 
 :bulb: J'ai donc commencé à développer MAEL en Python sur une carte Raspberry pi équipé d'un écran E-paper.
+
+Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté aux familles, symbole matériel de leur entrée dans le nouvel apprentissage.
 
 ---
 
@@ -124,8 +126,8 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ![](./readme_assets/MAEL_Gen.png)
 
-MAEL Gen fut développées en Python pour faciliter la création des codes QR.
-Elle fonctionne sous les 3 OS et permet de paramétrer facilement le contenu des codes QR.
+MAEL Gen fut développés en Python pour faciliter la création des codes QR.
+Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant lui-même les balises nécessaires.
 
 ---
 
@@ -136,21 +138,21 @@ Elle fonctionne sous les 3 OS et permet de paramétrer facilement le contenu des
 
 ![](./readme_assets/MAEL_Phrase-b-600px.png)
 
-MAEL Phrase a pour objectif de permettre à l'élève de créer des phrases de manière autonôme.
-Programmée en HTML/JavaScript/CSS, elle utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` (pour le moment) pour générer des phrases conjuguées et accordées.
+**MAEL Phrase** a pour objectif de permettre à l'élève de créer des phrases de manière autonôme.
+Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` pour générer des phrases conjuguées et accordées.
 
-Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour ses élèves.
+Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour les élèves de sa classe.
 
 ### b- Phonofouille :mag_right:
 
 ![](./readme_assets/Phonofouille-600px.png)
 
-Phonofouille va proposer par défault une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
+**MAEL Phrase** va proposer par défault une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
 
 Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de recherche pour choisir des mots dans la base de données.  
-Cependant, ces critères tels que le recherche par sons, par nature, pas thèmes ou par nombre de syllabes serait très utile.
+Cependant, des critères tels que le recherche par sons, par nature, pas thèmes ou par nombre de syllabes serait très utile.
 
-:bookmark_tabs: Phonophouille est une application dont la fonction est d'explorer la fasabilité d'un tel moteur de recherches.
+:bookmark_tabs: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
 
 ---
 
