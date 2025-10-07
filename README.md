@@ -59,11 +59,11 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 **MAEL me dépasse !** :sweat_smile:
 
-- MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort** dont les professeurs me proposent des améliorations.
+- :trophy: MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort** dont les professeurs me proposent des améliorations.
 
-- Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan, amélioration de MAEL Gen...
+- :postal_horn: Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan, amélioration de MAEL Gen...
 
-:rescue_worker_helmet: Pour cela, j'ai décidé de fonder une communauté OpenSource. 
+**:rescue_worker_helmet: Pour cela, j'ai décidé de fonder une communauté OpenSource.**
 
 - Pour suppléer mes lacunes. 
 - Pour accélérer le développement de cette application qui peut permettre à de nombreux élèves (enfants & adultes) d'apprendre une nouvelle langue. :grin:
