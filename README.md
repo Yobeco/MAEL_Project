@@ -185,6 +185,14 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de
 
 ***[mael@lvh.edu.ni](mael@lvh.edu.ni)***
 
+Nous avons besoin de contributeurs ayant :
+
+- des compétences en python,
+- la maîtrise du Raspberry pi,
+- des compétences en Kotlin (Backend),
+- des compétences en Kotlin MP (Android et iOS),
+- des compétences en HTML/JavaScript/CSS,
+- des compétences en PostgreSQL.
 
 
 ---
