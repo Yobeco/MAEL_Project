@@ -57,16 +57,18 @@ Petite vidéo résumant où en est MAEL actuellement :
 
 Je ne suis qu'un instit qui s'est autoformé en programmation. 
 
-En plus de mon travail de classe (préparation, corresctions...) je ne trouve pas assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière. MAEL me dépasse ! :sweat_smile:
+En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière. 
 
-- Il est actuellement en cours d'utilisation dans plusieurs classes dont les professeurs me demandent des améliorations.
+**MAEL me dépasse !** :sweat_smile:
 
-- Le projet est soutenu par la Zone AMLA Nord (Académie de notre région), mais je n'arrive pas à suivre le rythme (développement raspberry pi, création de la plateforme, version iOS de MAEL Scan...)
+- MAEL Scan est actuellement en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort dont les professeurs me proposent des améliorations.
+
+- Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan...
 
 Pour cela, j'ai décidé de fonder une communauté. :rescue_worker_helmet:
 
-- Pour suppléer mes incompétences.
-- pour continuer le développement de cette application quie peut permettre à de nombreux élèves (enfant & adultes) d'apprendre une nouvelle langue.
+- Pour suppléer mes lacunes. 
+- Pour continuer le développement de cette application quie peut permettre à de nombreux élèves (enfant & adultes) d'apprendre une nouvelle langue. :grin:
 
 ---
 
