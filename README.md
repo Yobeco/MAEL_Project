@@ -8,30 +8,43 @@
 
 :gb: Presentation of the MAEL project
 
-# A- :book: Histoire du projet
+# A- Histoire du projet :book:
 
-Je suis professeur des écoles dans un lycée français à Managua (Nicaragua). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout certains élèves n'ont aucun parent francophone à la maison pour les aider.
+## 1- Génèse
 
-Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR pour de le faire scanner puis oraliser par une petite application créée en Mit AppInventor (Scratch pour Android).
+Je suis professeur des écoles dans une école française à Managua (Nicaragua). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
-J'ai donc ajouté des codes QR (créés avec un générateur en ligne) que j'ai ajouté aux supports pédagogiques rapportés par les enfants à la maison. Il pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peut le système.
+Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application créée avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
+
+J'ai donc ajouté des codes QR (créés avec un générateur en ligne) à mes supports pédagogiques rapportés par les enfants à la maison. Il pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peu le système.
+
+## 2- Évolution
+
+Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Je l'utilisais très régulièrement
+
+
+https://github.com/Yobeco/MAEL_Project/blob/main/readme_assets/PresMAEL_2min.mp4
+
+
+## 3- Prospective
 
 ---
 
-# B- :gear: Les applications du projet
+# B- Les applications du projet :gear:
 
-## B1- :iphone: MAEL Scan
-## B1a- :child: Version Mit AppInventor
-## B1b- :green_apple: Version Kotlin
-## B1c- :no_mobile_phones: Version sans téléphone
+## B1- MAEL Scan :iphone:
+C'est la première application créée. Elle est essentiellement à destination des élèves.
+## a- Version Mit AppInventor :child:
+## b- Version Kotlin :green_apple:
+## c- Version sans téléphone :no_mobile_phones:
 
-## B2- :computer: MAEL Gen
+## B2- MAEL Gen :computer:
 
-## B3- :globe_with_meridians: MAEL Phrase
+## B3- MAEL Phrase :globe_with_meridians:
 
-### a- :speaking_head: L'application de création de phrases
+### a- L'application de création de phrases :speaking_head:
 
-### b- :mag_right: Phonofouille
+### b- Phonofouille :mag_right:
 
 ---
 
