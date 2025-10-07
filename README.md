@@ -95,9 +95,10 @@ Le code QR peut contenir :
 
 ![](./readme_assets/Android-MITai-150px.png)
 
-La première version a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks). Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
+La première version de **MEL Scan** a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks).   
+Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
 
-D'autre part, seule une compilation pour Android est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL.
+D'autre part, seule une compilation pour Android est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
 
 ---
 
