@@ -70,7 +70,7 @@ Pour cela, j'ai décidé de fonder une communauté. :rescue_worker_helmet:
 - Pour suppléer mes lacunes. 
 - Pour continuer le développement de cette application qui peut permettre à de nombreux élèves (enfants & adultes) d'apprendre une nouvelle langue. :grin:
 
-:fr:   :gb:   :es:   :portugal:   :brazil:   :it:   :de:   :ru:   :jp:    :cn:   :kr:        
+:fr: :gb: :es: :portugal: :brazil: :it: :de: :ru: :jp: :cn: :kr: ...
 
 ---
 
