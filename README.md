@@ -12,11 +12,13 @@
 
 ## 1- Génèse :milky_way:
 
-Je suis professeur des écoles dans une école française à Managua (Nicaragua). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
+Je suis professeur des écoles dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
 Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application créée avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
 
-J'ai donc ajouté des codes QR (créés avec un générateur en ligne) à mes supports pédagogiques rapportés par les enfants à la maison. Il pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peu le système.
+J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportent à la maison. 
+
+:tada: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peu le système.
 
 ## 2- Évolution :chart_with_upwards_trend:
 
