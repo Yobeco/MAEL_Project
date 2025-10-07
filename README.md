@@ -96,9 +96,14 @@ C'est la première application créée. Elle est essentiellement à destination 
 
 ## B3- MAEL Phrase :globe_with_meridians:
 
+
 ### a- L'application de création de phrases :speaking_head:
 
+![](./readme_assets/MAEL_Phrase-b-600px.png)
+
 ### b- Phonofouille :mag_right:
+
+![](./readme_assets/Phonofouille-600px.png)
 
 ---
 
