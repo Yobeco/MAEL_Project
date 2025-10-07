@@ -9,9 +9,9 @@
 
 :gb: Presentation of the MAEL project
 
-# A- Histoire du projet :book:
+# I- Histoire du projet :book:
 
-## 1- Génèse :milky_way:
+## A- Génèse :milky_way:
 
 Je suis instituteur dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
@@ -21,7 +21,7 @@ J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux suppo
 
 :tada: :sparkles: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile pour leur apprentissage et m'a donné l'envie d'améliorer le système.
 
-## 2- Évolution :chart_with_upwards_trend:
+## B- Évolution :chart_with_upwards_trend:
 
 Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Personnellement, je l'utilise tous les jours.
 
@@ -39,7 +39,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
-## 3- Prospective :eyes:
+## C- Prospective :eyes:
 
 :fire: Plusieurs travaux sont urgents actuellement :
 
@@ -52,7 +52,7 @@ Ce fut la naissance de **MAEL Phrase**.
 :eyeglasses: Voir la liste exhaustive des développements nécessaires.
 
 
-## 4- Conclusion :checkered_flag:
+## D- Conclusion :checkered_flag:
 
 Je ne suis qu'un instit qui s'est auto-formé en programmation.  
 En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière.
@@ -72,12 +72,12 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 ---
 
-# B- Les applications du projet :gear:
+# II- Les applications du projet :gear:
 
 ---
 
 
-## B1- MAEL Scan :iphone:
+## A- MAEL Scan :iphone:
 ![](./readme_assets/MAEL-Scan2-seul-350px.png)
 
 C'est la première application créée. 
@@ -91,7 +91,7 @@ Le code QR peut contenir :
 
 ---
 
-## a- Version Mit App Inventor :child:
+### 1- Version Mit App Inventor :child:
 
 ![](./readme_assets/Android-MITai-150px.png)
 
@@ -102,7 +102,7 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 ---
 
-## b- Version Kotlin :green_apple:
+### 2- Version Kotlin :green_apple:
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
@@ -114,19 +114,19 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ---
 
-## c- Version sans téléphone :no_mobile_phones:
+### 3- Version sans téléphone :no_mobile_phones:
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
 Étant conscient des problèmes que pose l'utilisation excessive du téléphone portable chez les plus jeunes, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
 
-:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte Raspberry pi équipée d'un écran E-paper.
+:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte **Raspberry pi** équipée d'un écran E-paper.
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté aux familles, symbole matériel de leur entrée dans le nouvel apprentissage.
 
 ---
 
-## B2- MAEL Gen :computer:
+## B- MAEL Gen :computer:
 
 ![](./readme_assets/MAEL_Gen.png)
 
@@ -135,10 +135,10 @@ Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facileme
 
 ---
 
-## B3- MAEL Phrase :globe_with_meridians:
+## C- MAEL Phrase :globe_with_meridians:
 
 
-### a- L'application de création de phrases :speaking_head:
+### 1- L'application de création de phrases :speaking_head:
 
 ![](./readme_assets/MAEL_Phrase-b-600px.png)
 
@@ -147,7 +147,7 @@ Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mai
 
 Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour les élèves de sa classe.
 
-### b- Phonofouille :mag_right:
+### 2- Phonofouille :mag_right:
 
 ![](./readme_assets/Phonofouille-600px.png)
 
