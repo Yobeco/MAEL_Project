@@ -84,7 +84,7 @@ C'est la première application créée.
 
 :ear: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
 
-:musical_note: Le code QR peut contenir un texte qui sera lu par une voix de syhtèse ou bien un lien vers un fichier .mp3 (pour le moment hébergé sur un Google Drive).
+:musical_note: Le code QR peut contenir un texte qui sera lu par une voix de syhtèse ou bien un lien vers un fichier .mp3 :microphone: (pour le moment hébergé sur un Google Drive).
 
 ---
 
