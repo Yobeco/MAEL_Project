@@ -157,6 +157,10 @@ Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mai
 
 Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour les élèves de sa classe.
 
+:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Phrases) :brain: 
+
+[![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phrases)
+
 ### 2- Phonofouille :mag_right:
 
 ![](./readme_assets/Phonofouille-600px.png)
@@ -167,6 +171,11 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de
 :bookmark_tabs: Cependant, des critères tels que le recherche par sons, position du son dans le mot, par nature du mot, pas thèmes ou par nombre de syllabes serait très utile.
 
 :bulb: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
+
+:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Phonofouille) :brain: 
+
+[![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phonofouille)
+
 
 ---
 
