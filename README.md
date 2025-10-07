@@ -33,8 +33,7 @@ Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseig
 >
 </iframe>
 
-[![Vidéo de présentation](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/qW8FHrZ1HIo)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
 ## 3- Prospective
 
