@@ -154,9 +154,9 @@ Il est prévu que le professeur puissse concevoir ses propres activités sur mes
 **MAEL Phrase** va proposer par défault une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
 
 Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de recherche pour choisir des mots dans la base de données.  
-Cependant, des critères tels que le recherche par sons, par nature, pas thèmes ou par nombre de syllabes serait très utile.
+:bookmark_tabs: Cependant, des critères tels que le recherche par sons, position du son dans le mot, par nature du mot, pas thèmes ou par nombre de syllabes serait très utile.
 
-:bookmark_tabs: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
+:bulb: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
 
 ---
 
