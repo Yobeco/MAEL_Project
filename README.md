@@ -139,7 +139,7 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté 
 **MAEL Gen** fut développé (Python) pour faciliter la création des codes QR.  
 Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires dans le code QR.
 
-:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Gen) :brain: 
+:brain: [En savoir plus sur MAEL Gen](https://github.com/Yobeco/MAEL_Gen) :brain: 
 
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Gen)
 
@@ -157,7 +157,7 @@ Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mai
 
 Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour les élèves de sa classe.
 
-:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Phrases) :brain: 
+:brain: [En savoir plus sur MAEL Phrases](https://github.com/Yobeco/MAEL_Phrases) :brain: 
 
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phrases)
 
@@ -172,7 +172,7 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de
 
 :bulb: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
 
-:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Phonofouille) :brain: 
+:brain: [En savoir plus sur Phonofouille](https://github.com/Yobeco/MAEL_Phonofouille) :brain: 
 
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phonofouille)
 
