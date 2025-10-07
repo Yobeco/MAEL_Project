@@ -17,13 +17,13 @@
 ## B1- :iphone: MAEL Scan
 ## B1a- Version Mit AppInventor
 ## B1b- Version Kotlin
-## B1c- :globe_with_meridians: Version sans téléphone
+## B1c- :no_mobile_phones: Version sans téléphone
 
 ## B2- :computer: MAEL Gen
 
 ## B3- :globe_with_meridians: MAEL Phrase
 
-### a- :globe_with_meridians: L'application de création de phrases
+### a- :speaking_head: L'application de création de phrases
 
 ### b- :mag_right: Phonofouille
 
