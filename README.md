@@ -22,18 +22,7 @@ J'ai donc ajouté des codes QR (créés avec un générateur en ligne) à mes su
 
 Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Je l'utilisais très régulièrement
 
-
-<iframe
-  width="320"
-  height="240"
-  src="https://youtu.be/qW8FHrZ1HIo"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
+[![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
 ## 3- Prospective
 
