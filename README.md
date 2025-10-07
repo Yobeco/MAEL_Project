@@ -128,6 +128,8 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté aux familles, symbole matériel de leur entrée dans le nouvel apprentissage.
 
+:construction: ![Aller au dépôt](./readme_assets/GItHub-H-32px.png) :construction:
+
 ---
 
 ## B- MAEL Gen :computer:
