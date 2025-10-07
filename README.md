@@ -3,6 +3,7 @@
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
 **Auteur** : Yonnel Bécognée, instituteur
+
 **Co-auteur** : François Varlet
 
 :fr: Présentation du projet MAEL
@@ -77,12 +78,20 @@ Pour cela, j'ai décidé de fonder une communauté. :rescue_worker_helmet:
 # B- Les applications du projet :gear:
 
 ## B1- MAEL Scan :iphone:
+![](./readme_assets/MAEL-Scan2-seul-350px.png)
+
 C'est la première application créée. Elle est essentiellement à destination des élèves.
-## a- Version Mit AppInventor :child:
+
+## a- Version Mit App Inventor :child:
+![](./readme_assets/Android-MITai-150px.png)
+
 ## b- Version Kotlin :green_apple:
+![](./readme_assets/Kotlin-MP-150px.png)
+
 ## c- Version sans téléphone :no_mobile_phones:
 
 ## B2- MAEL Gen :computer:
+![](./readme_assets/MAEL_Gen.png)
 
 ## B3- MAEL Phrase :globe_with_meridians:
 
