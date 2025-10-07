@@ -137,6 +137,10 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté 
 **MAEL Gen** fut développé (Python) pour faciliter la création des codes QR.  
 Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires dans le code QR.
 
+:brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Gen) :brain: 
+
+[![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Gen)
+
 ---
 
 ## C- MAEL Phrase :globe_with_meridians:
