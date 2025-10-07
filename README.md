@@ -91,7 +91,7 @@ Le code QR peut contenir :
 
 ---
 
-### 1- Version Mit App Inventor :child:
+### 1- MAEL Scan - Version Mit App Inventor :child:
 
 ![](./readme_assets/Android-MITai-150px.png)
 
@@ -102,7 +102,7 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 ---
 
-### 2- Version Kotlin :green_apple:
+### 2- MAEL Scan - Version Kotlin :green_apple:
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
@@ -118,7 +118,7 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ---
 
-### 3- Version sans téléphone :no_mobile_phones:
+### 3- MAEL Scan - Version sans téléphone :no_mobile_phones:
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
