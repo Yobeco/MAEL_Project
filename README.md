@@ -89,6 +89,7 @@ C'est la première application créée. Elle est essentiellement à destination 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
 ## c- Version sans téléphone :no_mobile_phones:
+![](./readme_assets/MAEL-Rpi-150px.png)
 
 ## B2- MAEL Gen :computer:
 ![](./readme_assets/MAEL_Gen.png)
