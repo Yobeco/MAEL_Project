@@ -2,8 +2,7 @@
 
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
-**Auteur** : Yonnel Bécognée, instituteur
-
+**Auteur** : Yonnel Bécognée, instituteur  
 **Co-auteur** : François Varlet
 
 :fr: Présentation du projet MAEL
@@ -16,11 +15,11 @@
 
 Je suis instituteur dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
-Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application pour cellulaire, **MAEL Scan**, créée avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
+Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application pour cellulaire : **MAEL Scan**, créé avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
 
 J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportaient à la maison. 
 
-:tada: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peu le système.
+:tada: :sparkles: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile pour leur apprentissage et m'a donné l'envie d'améliorer le système.
 
 ## 2- Évolution :chart_with_upwards_trend:
 
@@ -29,22 +28,22 @@ Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseig
 - J'ai donc créé un petit générateur de codes QR **MAEL Gen** (python) plus pratique qu'un site web.
 - J'ai ajouté un mode "Dicter" qui cache le texte lu par MAEL Scan.
 - J'ai ajouté un mode "Épeler" qui épelle les lettres au lieu de lire le texte.
-- J'ai ajouté un encryptage léger du code QR (pour les petits malins qui utilisent un lecteur de code QR standard pour préparer leur dictée :stuck_out_tongue_winking_eye: )
-- J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecteur et dictée pour le moment)
+- J'ai ajouté un encryptage léger du contenu du code QR (pour les petits malins qui utilisent un lecteur de code QR standard pour préparer leur dictée :stuck_out_tongue_winking_eye: )
+- J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecture et dicter pour le moment).
 
-Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application **MAEL Phrase** (JavaScript) qui permet de créer des phrases en toute autonomie à partir d'images.
+Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application en JavaScript, qui permet de créer des phrases en toute autonomie à partir d'images.
 
-Ce fut la naissance de MAEL Phrase.
+Ce fut la naissance de **MAEL Phrase**.
 
-Petite vidéo résumant où en est MAEL actuellement :
+*Petite vidéo résumant où en est le projet MAEL actuellement :*
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
 ## 3- Prospective :eyes:
 
-:fire: Plusieurs travaux les plus urgents actuellement :
+:fire: Plusieurs travaux sont urgents actuellement :
 
-1- **MAEL Scan** nécessite une version **iOS** car il y a pas mal d'utilisateurs qui ont un iPhone (Déjà commencée en Kotlin).
+1- **MAEL Scan** nécessite une version **iOS** car il y a pas mal d'utilisateurs qui ont un iPhone (déjà commencée en Kotlin).
 
 2- **MAEL Phrase** n'est qu'une petite page limitée (entre autre pas l'usage de Gemini 2.5). Elle a besoin de devenir une véritable **plateforme avec suivi des activités des élèves**.
 
@@ -55,20 +54,19 @@ Petite vidéo résumant où en est MAEL actuellement :
 
 ## 4- Conclusion :checkered_flag:
 
-Je ne suis qu'un instit qui s'est autoformé en programmation. 
-
-En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière. 
+Je ne suis qu'un instit qui s'est auto-formé en programmation.  
+En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière.
 
 **MAEL me dépasse !** :sweat_smile:
 
-- MAEL Scan est actuellement en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort dont les professeurs me proposent des améliorations.
+- MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort** dont les professeurs me proposent des améliorations.
 
-- Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan...
+- Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan, amélioration de MAEL Gen...
 
-Pour cela, j'ai décidé de fonder une communauté. :rescue_worker_helmet:
+:rescue_worker_helmet: Pour cela, j'ai décidé de fonder une communauté OpenSource. 
 
 - Pour suppléer mes lacunes. 
-- Pour continuer le développement de cette application qui peut permettre à de nombreux élèves (enfants & adultes) d'apprendre une nouvelle langue. :grin:
+- Pour accélérer le développement de cette application qui peut permettre à de nombreux élèves (enfants & adultes) d'apprendre une nouvelle langue. :grin:
 
 :fr: :gb: :es: :portugal: :brazil: :it: :de: :ru: :jp: :cn: :kr: ...
 
