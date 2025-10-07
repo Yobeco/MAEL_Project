@@ -14,11 +14,11 @@
 
 ## 1- Génèse :milky_way:
 
-Je suis professeur des écoles dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
+Je suis instituteur dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
-Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application créée avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
+Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application pour cellulaire, **MAEL Scan**, créée avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
 
-J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportent à la maison. 
+J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportaient à la maison. 
 
 :tada: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile et m'a donné l'envie d'améliorer peu à peu le système.
 
@@ -26,13 +26,13 @@ J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux suppo
 
 Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Personnellement, je l'utilise tous les jours.
 
-- J'ai donc créé un petit générateur (en python) de codes QR plus pratique qu'un site web.
+- J'ai donc créé un petit générateur de codes QR **MAEL Gen** (python) plus pratique qu'un site web.
 - J'ai ajouté un mode "Dicter" qui cache le texte lu par MAEL Scan.
 - J'ai ajouté un mode "Épeler" qui épelle les lettres au lieu de lire le texte.
 - J'ai ajouté un encryptage léger du code QR (pour les petits malins qui utilisent un lecteur de code QR standard pour préparer leur dictée :stuck_out_tongue_winking_eye: )
 - J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecteur et dictée pour le moment)
 
-Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application (en JavaScript) qui permet de créer des phrases en toute autonomie à partir d'images.
+Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application **MAEL Phrase** (JavaScript) qui permet de créer des phrases en toute autonomie à partir d'images.
 
 Ce fut la naissance de MAEL Phrase.
 
