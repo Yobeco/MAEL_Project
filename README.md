@@ -95,7 +95,7 @@ Le code QR peut contenir :
 
 ![](./readme_assets/Android-MITai-150px.png)
 
-La première version de **MEL Scan** a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks).   
+La première version de **MAEL Scan** a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks).   
 Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
 
 D'autre part, seule une compilation pour Android est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
@@ -106,7 +106,7 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
-[Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer des applications multiplateformes à partir du même code source.
+[Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer des applications multiplateformes à partir d'u'un même code source.
 
 Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une version iOS de MAEL, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
 
@@ -118,9 +118,9 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
-Étant conscient des problèmes que pose l'utilisation excessive du téléphone portable chez les plus jeues, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
+Étant conscient des problèmes que pose l'utilisation excessive du téléphone portable chez les plus jeunes, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
 
-:bulb: J'ai donc commencé à développer MAEL en Python sur une carte Raspberry pi équipé d'un écran E-paper.
+:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte Raspberry pi équipée d'un écran E-paper.
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté aux familles, symbole matériel de leur entrée dans le nouvel apprentissage.
 
@@ -130,8 +130,8 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté 
 
 ![](./readme_assets/MAEL_Gen.png)
 
-MAEL Gen fut développés en Python pour faciliter la création des codes QR.
-Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant lui-même les balises nécessaires.
+**MAEL Gen** fut développé (Python) pour faciliter la création des codes QR.  
+Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires dans le code QR.
 
 ---
 
