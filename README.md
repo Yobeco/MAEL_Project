@@ -112,6 +112,9 @@ Pour dépasser les limites imposées par le langage MIT App Inventor et pour pou
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation d'un module de lecture de code QR et l'implémentation d'un module pour la synthèse vocale.
 
+:brain: En savoir plus sur MAEL Scan
+![](./readme_assets/GItHub-H-32px.png)
+
 ---
 
 ### 3- Version sans téléphone :no_mobile_phones:
@@ -160,7 +163,15 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de
 
 ---
 
+# III- Participez au projet MAEL !
 
+Écrivez-moi à cette adresse pour plus de détails :
+
+***[mael@lvh.edu.ni](mael@lvh.edu.ni)***
+
+
+
+---
 
 
 
