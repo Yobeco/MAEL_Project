@@ -61,7 +61,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 ## D- Conclusion :checkered_flag:
 
-:man_teacher: Je ne suis qu'un instit qui s'est auto-formé en programmation.  
+### :man_teacher: Je ne suis qu'un instit qui s'est auto-formé en programmation.  
 En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière.
 
 ### **MAEL me dépasse !** :sweat_smile:
@@ -141,7 +141,7 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé
 
 ![](./readme_assets/MAEL_Gen.png)
 
-**MAEL Gen** fut développé (Python) pour faciliter la création des codes QR par le professeur.  
+**MAEL Gen** fut développé (Python) pour faciliter la **création des codes QR** par le professeur.  
 Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires.
 
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Gen)  :brain: [En savoir plus sur MAEL Gen](https://github.com/Yobeco/MAEL_Gen) :brain: 
@@ -156,10 +156,10 @@ Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facileme
 
 ![](./readme_assets/MAEL_Phrase-b-600px.png)
 
-**MAEL Phrase** a pour objectif de permettre à l'élève de créer des phrases de manière autonome.
+**MAEL Phrase** a pour objectif de permettre à l'élève de **créer des phrases de manière autonome**.
 Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` pour générer des phrases conjuguées et accordées.
 
-Il est prévu que le professeur puissse concevoir ses propres activités sur mesure, pour les élèves de sa classe.
+Il est prévu que le professeur puisse concevoir ses propres activités sur mesure, pour les élèves de sa classe.
 
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phrases) :brain:  [En savoir plus sur MAEL Phrases](https://github.com/Yobeco/MAEL_Phrases) :brain: 
 
