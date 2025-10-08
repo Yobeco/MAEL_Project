@@ -4,9 +4,9 @@
 **Auteur** : Yonnel Bécognée, instituteur  
 **Co-auteur** : François Varlet
 
-:fr: Présentation du projet MAEL
+### :fr: Présentation du projet MAEL
 
-:gb: Presentation of the MAEL project
+### :gb: *Presentation of the MAEL project*
 
 # I- Histoire du projet :book:
 
