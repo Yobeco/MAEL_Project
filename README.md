@@ -61,7 +61,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 ## D- Conclusion :checkered_flag:
 
-Je ne suis qu'un instit qui s'est auto-formé en programmation.  
+:man_teacher: Je ne suis qu'un instit qui s'est auto-formé en programmation.  
 En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière.
 
 **MAEL me dépasse !** :sweat_smile:
