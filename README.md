@@ -120,6 +120,9 @@ Pour dépasser les limites imposées par le langage MIT App Inventor et pour pou
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
 [![Aller au dépôt](./readme_assets/GItHub-H_32px.png)](https://github.com/Yobeco/MAEL_Scan)
+
+[![Aller au dépôt](./readme_assets/GitHub-Bandeau-32px.png)](https://github.com/Yobeco/MAEL_Scan)
+
 ---
 
 ### 3- MAEL Scan - Version sans téléphone :no_mobile_phones:
@@ -132,7 +135,7 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
-:construction: ![Aller au dépôt](./readme_assets/GItHub-H-32px.png) :construction:
+:construction: ![Pas encore de dépôt](./readme_assets/GItHub-H-32px.png) :construction:
 
 ---
 
