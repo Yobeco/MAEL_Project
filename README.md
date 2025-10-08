@@ -22,7 +22,7 @@ J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux suppo
 
 ## B- Évolution :chart_with_upwards_trend:
 
-Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Personnellement, je l'utilise tous les jours.
+Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Actuellement, je l'utilise tous les jours avec mes élèves de CE1-CE2.
 
 - J'ai donc créé un petit générateur de codes QR **MAEL Gen** (python) plus pratique qu'un site web.
 - J'ai ajouté un mode "Dicter" qui cache le texte lu par MAEL Scan.
