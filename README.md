@@ -135,7 +135,7 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
-:construction: ![Pas encore de dépôt](./readme_assets/GItHub-H-32px.png) :construction:
+![Pas encore de dépôt](./readme_assets/GitHub-H_constr_45px.png) 
 
 ---
 
