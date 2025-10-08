@@ -48,7 +48,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi**.
 
-### Liste des développements nécessaires :
+### :keyboard: Liste des développements nécessaires :
 
 | Application | Dépôt |
 | ----------- | ----------- |
