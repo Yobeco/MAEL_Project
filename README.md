@@ -113,11 +113,11 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
-[Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer des applications multiplateformes à partir d'u'un même code source.
+[Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer une application pour plusieurs plateformes à partir d'un même code source.
 
 Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une version iOS de MAEL, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
 
-Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation d'un module de lecture de code QR et l'implémentation d'un module pour la synthèse vocale.
+Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
 :brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Scan) :brain: 
 
@@ -129,11 +129,11 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
-Étant conscient des problèmes que pose l'utilisation excessive du téléphone portable chez les plus jeunes, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
+Étant conscient des problèmes que pose **l'utilisation excessive du téléphone portable chez les plus jeunes**, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
 
 :bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte **Raspberry pi** équipée d'un écran E-paper.
 
-Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté aux familles, symbole matériel de leur entrée dans le nouvel apprentissage.
+Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
 :construction: ![Aller au dépôt](./readme_assets/GItHub-H-32px.png) :construction:
 
@@ -143,8 +143,8 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet prêté 
 
 ![](./readme_assets/MAEL_Gen.png)
 
-**MAEL Gen** fut développé (Python) pour faciliter la création des codes QR.  
-Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires dans le code QR.
+**MAEL Gen** fut développé (Python) pour faciliter la création des codes QR par le professeur.  
+Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires.
 
 :brain: [En savoir plus sur MAEL Gen](https://github.com/Yobeco/MAEL_Gen) :brain: 
 
@@ -159,10 +159,10 @@ Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facileme
 
 ![](./readme_assets/MAEL_Phrase-b-600px.png)
 
-**MAEL Phrase** a pour objectif de permettre à l'élève de créer des phrases de manière autonôme.
+**MAEL Phrase** a pour objectif de permettre à l'élève de créer des phrases de manière autonome.
 Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` pour générer des phrases conjuguées et accordées.
 
-Il est prévu que le professeur puissse concevoir ses propres activités sur mesure pour les élèves de sa classe.
+Il est prévu que le professeur puissse concevoir ses propres activités sur mesure, pour les élèves de sa classe.
 
 :brain: [En savoir plus sur MAEL Phrases](https://github.com/Yobeco/MAEL_Phrases) :brain: 
 
@@ -175,13 +175,13 @@ Il est prévu que le professeur puissse concevoir ses propres activités sur mes
 **MAEL Phrase** va proposer par défault une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
 
 Afin, de créer ses propres activités, le professeur aura besoin d'un moteur de recherche pour choisir des mots dans la base de données.  
-:bookmark_tabs: Cependant, des critères tels que le recherche par sons, position du son dans le mot, par nature du mot, pas thèmes ou par nombre de syllabes serait très utile.
+:bookmark_tabs: Cependant, des critères tels que le recherche par sons, position du son dans le mot, par nature du mot, par thèmes ou par nombre de syllabes serait très utile.
 
 :bulb: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
 
-:brain: [En savoir plus sur Phonofouille](https://github.com/Yobeco/MAEL_Phonofouille) :brain: 
-
 [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Phonofouille)
+ :brain: [En savoir plus sur Phonofouille](https://github.com/Yobeco/MAEL_Phonofouille) :brain: 
+
 
 
 ---
