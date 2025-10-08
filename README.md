@@ -48,7 +48,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi**.
 
-### :keyboard: Liste des développements nécessaires :
+### :keyboard: Liste des développements en cours :
 
 | Application | Dépôt |
 | ----------- | ----------- |
@@ -79,7 +79,7 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 ---
 
-# II- Les applications du projet :gear:
+# II- Les applications du projet MAEL :gear:
 
 ---
 
@@ -89,7 +89,7 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 C'est la première application créée. 
 
-:ear: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
+:speaking_head: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
 
 Le code QR peut contenir :
 
