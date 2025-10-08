@@ -1,5 +1,4 @@
 
-
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
 **Auteur** : Yonnel Bécognée, instituteur  
@@ -49,7 +48,15 @@ Ce fut la naissance de **MAEL Phrase**.
 
 3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi**.
 
-:eyeglasses: Voir la liste exhaustive des développements nécessaires.
+### Liste des développements nécessaires :
+
+| Application | Dépôt |
+| ----------- | ----------- |
+| MAEL Scan | [Disponible](https://github.com/Yobeco/MAEL_Scan) |
+| MAEL Scan Pi | Bientôt Disponible |
+| MAEL Gen | [Disponible](https://github.com/Yobeco/MAEL_Gen) |
+| MAEL phrase | [Disponible](https://github.com/Yobeco/MAEL_Phrases) |
+| Phonofouille | [Disponible](https://github.com/Yobeco/MAEL_Phonofouille) |
 
 
 ## D- Conclusion :checkered_flag:
@@ -193,7 +200,7 @@ Nous avons besoin de contributeurs ayant :
 - des compétences en Kotlin MP (Android et iOS),
 - des compétences en HTML/JavaScript/CSS,
 - des compétences en PostgreSQL.
-- :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une bibliothèque d'images libres de droits.
+- :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une **bibliothèque d'images libres de droits** pour MAEL Phrase.
 
 
 ---
