@@ -188,7 +188,7 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 Écrivez-moi à cette adresse pour plus de détails :
 
-***[mael@lvh.edu.ni](mailto:mael@lvh.edu.ni)***
+📨 ***[mael@lvh.edu.ni](mailto:mael@lvh.edu.ni)***
 
 
 Nous avons besoin de contributeurs ayant :
