@@ -64,7 +64,7 @@ Ce fut la naissance de **MAEL Phrase**.
 :man_teacher: Je ne suis qu'un instit qui s'est auto-formé en programmation.  
 En plus de mon travail de classe (préparation, corrections...) je ne trouve plus assez de temps pour me former et continuer à développer le projet MAEL à la vitesse qu'il requière.
 
-**MAEL me dépasse !** :sweat_smile:
+### **MAEL me dépasse !** :sweat_smile:
 
 - :trophy: MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort** dont les professeurs me proposent des améliorations.
 
