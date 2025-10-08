@@ -115,7 +115,7 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 [Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer une application pour plusieurs plateformes à partir d'un même code source.
 
-Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une version iOS de MAEL, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
+Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version iOS de MAE**L, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
@@ -129,7 +129,7 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 Étant conscient des problèmes que pose **l'utilisation excessive du téléphone portable chez les plus jeunes**, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
 
-:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte **Raspberry pi** équipée d'un écran E-paper.
+:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte **Raspberry pi** équipée d'un écran E-paper. Un premier prototype est déjà fonctionnel.
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
