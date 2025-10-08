@@ -50,7 +50,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 ### :keyboard: Liste des développements en cours :
 
-| Application | Dépôt |
+| Application | Dépôt GitHub |
 | ----------- | ----------- |
 | MAEL Scan | [Disponible](https://github.com/Yobeco/MAEL_Scan) |
 | MAEL Scan Pi | Bientôt Disponible |
@@ -115,11 +115,11 @@ D'autre part, seule une compilation pour Android est possible. Alors, plusieurs 
 
 [Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer une application pour plusieurs plateformes à partir d'un même code source.
 
-Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version iOS de MAE**L, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
+Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version iOS de MAEL**, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
-[![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Scan)  :brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Scan) :brain: 
+En savoir plus [![Aller au dépôt](./readme_assets/GItHub-H-32px.png)](https://github.com/Yobeco/MAEL_Scan)  :brain: [En savoir plus sur MAEL Scan](https://github.com/Yobeco/MAEL_Scan) :brain: 
 
 ---
 
