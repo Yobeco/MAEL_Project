@@ -119,9 +119,9 @@ Pour dépasser les limites imposées par le langage MIT App Inventor et pour pou
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
-[![Aller au dépôt](./readme_assets/GItHub-H_32px.png)](https://github.com/Yobeco/MAEL_Scan)
 
-[![Aller au dépôt](./readme_assets/GitHub-Bandeau-32px.png)](https://github.com/Yobeco/MAEL_Scan)
+
+[![Aller au dépôt](./readme_assets/GitHub-Bandeau-45px.png)](https://github.com/Yobeco/MAEL_Scan)
 
 ---
 
