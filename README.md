@@ -193,6 +193,7 @@ Nous avons besoin de contributeurs ayant :
 - des compétences en Kotlin MP (Android et iOS),
 - des compétences en HTML/JavaScript/CSS,
 - des compétences en PostgreSQL.
+- :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une bibliothèque d'images libres de droits.
 
 
 ---
