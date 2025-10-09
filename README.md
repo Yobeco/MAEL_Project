@@ -6,9 +6,7 @@
 **Auteur** : Yonnel Bécognée, instituteur  
 **Co-auteur** : François Varlet
 
-### :fr: Présentation du projet MAEL
-
-### :gb: *Presentation of the MAEL project*
+## :fr: [Français](https://github.com/Yobeco/MAEL_Project) | :gb: English
 
 # I- Histoire du projet :book:
 
