@@ -200,6 +200,7 @@ Nous avons besoin de contributeurs ayant :
 - des compétences en HTML/JavaScript/CSS,
 - des compétences en PostgreSQL.
 - :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une **bibliothèque d'images libres de droits** pour MAEL Phrase.
+- des connaissances en macros pour LibreOffice <img src="https://cdn.simpleicons.org/LibreOffice/FFFF" width="24" height="24" style="vertical-align: middle;" />
 
 
 ---
