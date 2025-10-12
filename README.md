@@ -1,16 +1,14 @@
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
 **Auteur** : Yonnel Bécognée, instituteur  
-**Co-auteur** : François Varlet
+**Co-auteur** : François Varlet, instituteur
+
+:calendar: Documentation mise à jour le : **2025-10-12**
 
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
 ## :fr: [Français](https://github.com/Yobeco/MAEL_Project) | :gb: English
-
-:calendar: Documentation mise à jour le : **2025-10-12**
-
----
 
 # I- Histoire du projet :book:
 
