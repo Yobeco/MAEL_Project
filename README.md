@@ -186,7 +186,7 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 ---
 
-# III- :open_hands: Participez au projet MAEL <img src="https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/readme_assets/MAEL_s.svg" alt="Logo MAEL" width="40" height="40" /> !
+# III- :open_hands: Participez au projet MAEL <img src="https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/readme_assets/MAEL.svg" alt="Logo MAEL" width="40" height="40" /> !
 
 :fr: [Code de conduite](https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/CODE_DE_CONDUITE.md) | :gb: [Code of conduct](https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/CODE_OF_CONDUCT.md)
 
