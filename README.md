@@ -184,6 +184,8 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 # III- Participez au projet MAEL !
 
+:fr: [Code de conduite](CODE_DE_CONDUITE.md) | :gb: [Code of conduct](CODE_OF_CONDUCT.md)
+
 Écrivez-moi à cette adresse pour plus de détails :
 
 ### 📨 ***[mael@lvh.edu.ni](mailto:mael@lvh.edu.ni)***
