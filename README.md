@@ -17,27 +17,27 @@
 
 Je suis instituteur dans une école française à Managua (Nicaragua :nicaragua:). J'enseigne en maternelle ou en élémentaire selon les années. Tous mes élèves ne parlent pas (encore) français, mais surtout, certains élèves n'ont aucun parent francophone à la maison pour les aider.
 
-Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application pour cellulaire : **MAEL Scan**, créé avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch pour Android).
+Étant autodidacte en programmation, j'ai eu l'idée de mettre du texte brut dans un code QR afin de le faire scanner puis oraliser par une petite application pour téléphone portable :iphone: : **MAEL Scan**, créé avec [Mit App Inventor](https://appinventor.mit.edu/) (Scratch<img src="https://cdn.simpleicons.org/scratch/808080" width="24" height="24" style="vertical-align: middle;" /> pour Android).
 
-J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportaient à la maison. 
+J'ai donc ajouté des codes QR (créés avec un générateur en ligne) aux supports pédagogiques que les enfants rapportaient à la maison. (Jeux, cartes illustrées de vocabulaire...)
 
 :tada: :sparkles: Ils pouvaient enfin écouter des mots ou de courtes phrases en français chez eux. Cela s'est montré très utile pour leur apprentissage et m'a donné l'envie d'améliorer le système.
 
 ## B- Évolution :chart_with_upwards_trend:
 
-Petit à petit, MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Actuellement, je l'utilise tous les jours avec mes élèves de CE1-CE2.
+Petit à petit, <img src="https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/readme_assets/MAEL.svg" alt="Logo MAEL" width="24" height="24" />MAEL est devenu un outil utile pour plusieurs professeurs enseignant une langue. Actuellement, je l'utilise tous les jours avec mes élèves de CE1-CE2.
 
-- J'ai donc créé un petit générateur de codes QR **MAEL Gen** (python) plus pratique qu'un site web.
+- J'ai donc créé un petit générateur de codes QR **MAEL Gen** (python <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />) plus pratique qu'un site web.
 - J'ai ajouté un mode "Dicter" qui cache le texte lu par MAEL Scan.
 - J'ai ajouté un mode "Épeler" qui épelle les lettres au lieu de lire le texte.
 - J'ai ajouté un encryptage léger du contenu du code QR (pour les petits malins qui utilisent un lecteur de code QR standard pour préparer leur dictée :stuck_out_tongue_winking_eye: )
 - J'ai maintenu la possibilité d'utiliser 55 langues (au moins pour les modes lecture et dicter pour le moment).
 
-Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application en JavaScript, qui permet de créer des phrases en toute autonomie à partir d'images.
+Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer une application en JavaScript <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />, qui permet de créer des phrases en toute autonomie à partir d'images.
 
 Ce fut la naissance de **MAEL Phrase**.
 
-*Petite vidéo résumant où en est le projet MAEL actuellement :*
+:video_camera: *Petite vidéo résumant où en est le projet MAEL actuellement* :play_or_pause_button:
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
@@ -49,7 +49,7 @@ Ce fut la naissance de **MAEL Phrase**.
 
 2- **MAEL Phrase** n'est qu'une petite page limitée (entre autre pas l'usage de Gemini 2.5). Elle a besoin de devenir une véritable **plateforme avec suivi des activités des élèves**.
 
-3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi**.
+3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi** <img src="https://cdn.simpleicons.org/raspberrypi/808080" width="24" height="24" style="vertical-align: middle;" />.
 
 ### :keyboard: Liste des développements en cours :
 
