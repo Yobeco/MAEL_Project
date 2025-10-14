@@ -105,23 +105,21 @@ Le code QR peut contenir :
 ![](./readme_assets/Android-MITai-150px.png)
 
 La première version de **MAEL Scan** a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks).   
-Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est inssuffisant pour les développements futurs. 
+Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est insuffisant pour les développements futurs. 
 
-D'autre part, seule une compilation pour Android est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
+D'autre part, seule une compilation pour Android <img src="https://cdn.simpleicons.org/android/808080" width="24" height="24" style="vertical-align: middle;" /> est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
 
 ---
 
-### 2- MAEL Scan - Version Kotlin :green_apple:
+### 2- MAEL Scan - Version Kotlin <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
 [Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer une application pour plusieurs plateformes à partir d'un même code source.
 
-Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version iOS de MAEL**, j'ai donc commencé à apprendre le Kotlin. (Mais aussi pour développer le back-end de MAEL Phrase)
+Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version  <img src="https://cdn.simpleicons.org/ios/808080" width="24" height="24" style="vertical-align: middle;" /> de MAEL**, j'ai donc commencé à apprendre le Kotlin <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />. (Mais aussi pour développer le back-end de MAEL Phrase)
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
-
-
 
 [![Aller au dépôt](./readme_assets/GitHub-Bandeau-45px.png)](https://github.com/Yobeco/MAEL_Scan)
 
@@ -131,11 +129,11 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
-Étant conscient des problèmes que pose **l'utilisation excessive du téléphone portable chez les plus jeunes**, j'ai vite eu des remords à en mettre un dans les mains d'enfants de materelle et d'école élémentaire.
+Étant conscient des problèmes que pose **l'utilisation excessive du téléphone portable chez les plus jeunes**, j'ai vite eu des remords à en mettre un dans les mains d'enfants de maternelle et d'école élémentaire.
 
-:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python) sur une carte **Raspberry pi** équipée d'un écran E-paper. Un premier prototype est déjà fonctionnel.
+:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />) sur une carte **Raspberry pi** équipée d'un écran E-paper. Un premier prototype est déjà fonctionnel.
 
-Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
+Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D  <img src="https://cdn.simpleicons.org/blender/808080" width="24" height="24" style="vertical-align: middle;" />, prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
 ![Pas encore de dépôt](./readme_assets/GitHub-H_constr_45px.png) 
 
@@ -145,7 +143,7 @@ Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé
 
 ![](./readme_assets/MAEL_Gen.png)
 
-**MAEL Gen** fut développé (Python) pour faciliter la **création des codes QR** par le professeur.  
+**MAEL Gen** fut développé (Python  <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />) pour faciliter la **création des codes QR** par le professeur.  
 Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facilement le contenu des codes QR en ajoutant de manière transparente les balises nécessaires.
 
 
@@ -161,13 +159,11 @@ Il fonctionne sur ordinateur (Linux/MacOS/Win) et permet de paramétrer facileme
 ![](./readme_assets/MAEL_Phrase-b-600px.png)
 
 **MAEL Phrase** a pour objectif de permettre à l'élève de **créer des phrases de manière autonome**.
-Programmé en HTML/JavaScript/CSS, il utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` pour générer des phrases conjuguées et accordées.
+Programmé en HTML/JavaScript/CSS <img src="https://cdn.simpleicons.org/html5/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/css/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />, il utilise pour le moment l'API gratuite (mais limitée) de `Gemini 2.5 Pro` pour générer des phrases conjuguées et accordées.
 
 Il est prévu que le professeur puisse concevoir ses propres activités sur mesure, pour les élèves de sa classe.
 
 [![Aller au dépôt](./readme_assets/GitHub-Bandeau-45px.png)](https://github.com/Yobeco/MAEL_Phrases)
-
-
 
 ### 2- Phonofouille :mag_right:
 
@@ -195,10 +191,10 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 Nous avons besoin de contributeurs ayant :
 
-- des compétences en hébergement et services associés <img src="https://cdn.simpleicons.org/opensourceinitiative/808080" width="24" height="24" style="vertical-align: middle;" /> (site, cloud, API...).
+- des compétences en hébergement et services associés <img src="https://cdn.simpleicons.org/opensourceinitiative/808080" width="24" height="24" style="vertical-align: middle;" /> (site, cloud, API...),
 - des compétences en développement Web <img src="https://cdn.simpleicons.org/html5/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/css/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en IA ( <img src="https://cdn.simpleicons.org/mistralai/808080" width="24" height="24" style="vertical-align: middle;" /> ou autres...),
-- des compétences en Kotlin (Backend) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en Kotlin (back end) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en SQLite <img src="https://cdn.simpleicons.org/sqlite/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en Kotlin MP (Android et iOS) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
