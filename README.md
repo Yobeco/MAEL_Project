@@ -195,14 +195,18 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 Nous avons besoin de contributeurs ayant :
 
-- des compétences en python,
-- la maîtrise du Raspberry pi et la gestions de modules,
-- des compétences en Kotlin (Backend),
-- des compétences en Kotlin MP (Android et iOS),
-- des compétences en HTML/JavaScript/CSS,
-- des compétences en PostgreSQL.
-- :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une **bibliothèque d'images libres de droits** pour MAEL Phrase.
-- des connaissances en macros pour LibreOffice <img src="https://cdn.simpleicons.org/LibreOffice/FFFF" width="24" height="24" style="vertical-align: middle;" />
+- des compétences en hébergements et services associés <img src="https://cdn.simpleicons.org/opensourceinitiative/808080" width="24" height="24" style="vertical-align: middle;" /> ,
+- des compétences en développement Web <img src="https://cdn.simpleicons.org/html5/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/css/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en IA ( <img src="https://cdn.simpleicons.org/mistralai/808080" width="24" height="24" style="vertical-align: middle;" /> ou autres...),
+- des compétences en Kotlin (Backend) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en SQLite <img src="https://cdn.simpleicons.org/sqlite/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en Kotlin MP (Android et iOS) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en python <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />,
+- la maîtrise du Raspberry pi et la gestions de modules <img src="https://cdn.simpleicons.org/raspberrypi/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des connaissances en macros pour LibreOffice <img src="https://cdn.simpleicons.org/LibreOffice/808080" width="24" height="24" style="vertical-align: middle;" />,
+- qui puissent traduire :tongue: et actualiser la documentation,
+- :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice :framed_picture: pour créer une **bibliothèque d'images libres de droits** <img src="https://cdn.simpleicons.org/creativecommons/808080" width="24" height="24" style="vertical-align: middle;" />  pour MAEL Phrase...
 
 
 ---
