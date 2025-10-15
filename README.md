@@ -193,7 +193,7 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 Nous avons besoin de contributeurs ayant :
 
 - des compétences en hébergement et services associés <img src="https://cdn.simpleicons.org/opensourceinitiative/808080" width="24" height="24" style="vertical-align: middle;" /> (site, cloud, API...),
-- des compétences en développement Web <img src="https://cdn.simpleicons.org/html5/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/css/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />,
+- des compétences en développement Web <img src="https://cdn.simpleicons.org/linux/808080" width="24" height="24" style="vertical-align: middle;" /><img src="https://cdn.simpleicons.org/html5/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/css/808080" width="24" height="24" style="vertical-align: middle;" /> <img src="https://cdn.simpleicons.org/javascript/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en IA ( <img src="https://cdn.simpleicons.org/mistralai/808080" width="24" height="24" style="vertical-align: middle;" /> ou autres...),
 - des compétences en Kotlin (back end) <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />,
 - des compétences en PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/808080" width="24" height="24" style="vertical-align: middle;" />,
