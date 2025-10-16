@@ -90,9 +90,9 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 ## A- MAEL Scan :iphone:
 ![](./readme_assets/MAEL-Scan2-seul-350px.png)
 
-C'est la première application créée. 
+C'est la première application créée.
 
-:speaking_head: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
+:speaking_head: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur. 
 
 Le code QR peut contenir :
 
@@ -111,6 +111,8 @@ La première version de **MAEL Scan** a été développée avec [MIT App Invento
 Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est insuffisant pour les développements futurs. 
 
 D'autre part, seule une compilation pour Android <img src="https://cdn.simpleicons.org/android/808080" width="24" height="24" style="vertical-align: middle;" /> est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
+
+Elle est en cours d'utilisation par plusieurs classes actuellement (dont la mienne :smile:).
 
 ---
 
