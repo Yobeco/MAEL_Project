@@ -99,7 +99,7 @@ Le code QR peut contenir :
 - :page_facing_up: **un mot ou un texte** qui sera lu par une voix de syhtèse ou bien 
 - :microphone: un lien vers **un fichier .mp3** :musical_note: (pour le moment hébergé sur un Google Drive).
 
-Actuellement, **MAEL Scan** existe en deux versions.
+Actuellement, **MAEL Scan** existe en 3 versions dont une seule est fonctionnelle pour le moment.
 
 ---
 
