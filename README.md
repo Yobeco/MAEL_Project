@@ -112,7 +112,7 @@ Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce lang
 
 D'autre part, seule une compilation pour Android <img src="https://cdn.simpleicons.org/android/808080" width="24" height="24" style="vertical-align: middle;" /> est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
 
-Elle est en cours d'utilisation par plusieurs classes actuellement (dont la mienne :smile:).
+Elle est en cours d'utilisation par plusieurs classes actuellement (dont la mienne :smile:) depuis plus de deux ans.
 
 ---
 
