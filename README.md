@@ -136,7 +136,7 @@ Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué c
 
 Étant conscient des problèmes que pose **l'utilisation excessive du téléphone portable chez les plus jeunes**, j'ai vite eu des remords à en mettre un dans les mains d'enfants de maternelle et d'école élémentaire.
 
-:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />) sur une carte **Raspberry pi** <img src="https://cdn.simpleicons.org/raspberry/808080" width="24" height="24" style="vertical-align: middle;" />équipée d'un écran E-paper. Un premier prototype est déjà fonctionnel.
+:bulb: J'ai donc commencé à développer une version de MAEL Scan (Python <img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" />) sur une carte **Raspberry pi** <img src="https://cdn.simpleicons.org/raspberrypi/808080" width="24" height="24" style="vertical-align: middle;" />équipée d'un écran E-paper. Un premier prototype est déjà fonctionnel.
 
 Il est prévu que "MAEL Scan Pi" (nom provisoire) devienne un bel objet imprimé en 3D  <img src="https://cdn.simpleicons.org/blender/808080" width="24" height="24" style="vertical-align: middle;" />, prêté aux familles, symbole matériel de leur entrée dans un nouvel apprentissage.
 
