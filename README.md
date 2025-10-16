@@ -120,9 +120,9 @@ Elle est en cours d'utilisation par plusieurs classes actuellement (dont la mien
 
 ![](./readme_assets/Kotlin-MP-150px.png)
 
-[Kotlin MP](https://kotlinlang.org/) est conçu pour pouvoir créer une application pour plusieurs plateformes à partir d'un même code source.
+[Kotlin MP](https://kotlinlang.org/) permet de créer une application pour plusieurs plateformes à partir d'un même code source.
 
-Pour dépasser les limites imposées par le langage MIT App Inventor et pour pouvoir créer une **version  <img src="https://cdn.simpleicons.org/ios/808080" width="24" height="24" style="vertical-align: middle;" /> de MAEL**, j'ai donc commencé à apprendre le Kotlin <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />. (Mais aussi pour développer le back-end de MAEL Phrase)
+Pour dépasser les limites imposées par le langage MIT App Inventor et créer une version **iOS** de MAEL, j'ai donc commencé à apprendre le Kotlin <img src="https://cdn.simpleicons.org/kotlin/808080" width="24" height="24" style="vertical-align: middle;" />. (Mais aussi pour développer le back-end de MAEL Phrase)
 
 Pour le moment, seule l'interface a été codée. Je suis actuellement bloqué concernant l'implémentation du module de lecture de code QR et l'implémentation du module pour la synthèse vocale.
 
