@@ -5,7 +5,7 @@
 
 <!-- À METTRE À JOUR !!! -->
 
-:calendar: Documentation mise à jour le : **2025-10-25**
+:calendar: Documentation mise à jour le : **2025-10-27**
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
