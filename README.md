@@ -56,7 +56,7 @@ Ce fut la naissance de **MAEL Phrase**.
 | <img src="https://raw.githubusercontent.com/Yobeco/MAEL_Project/refs/heads/main/readme_assets/MAEL.svg" alt="Logo MAEL" width="40" height="24" />Application | <img src="https://cdn.simpleicons.org/github/808080" width="24" height="24" style="vertical-align: middle;" /> Dépôt GitHub |
 | ----------- | ----------- |
 | MAEL Scan | :white_check_mark: ​[Disponible](https://github.com/Yobeco/MAEL_Scan) |
-| MAEL Scan Pi | :clock1: Bientôt Disponible |
+| MAEL Scan Pi | :clock1: [En travaux](https://github.com/Yobeco/MAEL_Scan_Pi/tree/main) |
 | MAEL Gen | :white_check_mark: [Disponible](https://github.com/Yobeco/MAEL_Gen) |
 | MAEL phrase | :white_check_mark: [Disponible](https://github.com/Yobeco/MAEL_Phrases) |
 | Phonofouille | :white_check_mark: [Disponible](https://github.com/Yobeco/MAEL_Phonofouille) |
