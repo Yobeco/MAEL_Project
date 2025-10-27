@@ -5,7 +5,7 @@
 
 <!-- À METTRE À JOUR !!! -->
 
-:calendar: Documentation mise à jour le : **2025-10-14**
+:calendar: Documentation mise à jour le : **2025-10-25**
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
@@ -47,9 +47,9 @@ Ce fut la naissance de **MAEL Phrase**.
 
 1- **MAEL Scan** nécessite une version **iOS** car il y a pas mal d'utilisateurs qui ont un iPhone (déjà commencée en Kotlin).
 
-2- **MAEL Phrase** n'est qu'une petite page limitée (entre autre pas l'usage de Gemini 2.5). Elle a besoin de devenir une véritable **plateforme avec suivi des activités des élèves**.
+2- **MAEL Phrase** n'est qu'une petite page limitée (entre autre par l'usage de Gemini 2.5). Elle a besoin de devenir une véritable **plateforme avec suivi des activités des élèves**.
 
-3- **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi** <img src="https://cdn.simpleicons.org/raspberrypi/808080" width="24" height="24" style="vertical-align: middle;" />.
+3- Cependant, **MAEL Scan** pour le primaire, reste une occasion de plus pour l'enfant d'avoir un téléphone dans la main. J'ai donc commencé le développement d'une version embarquée sur un **Raspberry pi** <img src="https://cdn.simpleicons.org/raspberrypi/808080" width="24" height="24" style="vertical-align: middle;" />.
 
 ### :keyboard: Liste des développements en cours :
 
@@ -69,13 +69,13 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 ### **MAEL me dépasse !** :sweat_smile:
 
-- :trophy: MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nort** dont les professeurs me proposent des améliorations.
+- :trophy: MAEL Scan est actuellement **en cours d'utilisation dans plusieurs classes en Amérique centrale et du nord** dont les professeurs me proposent des améliorations.
 
-- :postal_horn: Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement raspberry pi, création de la plateforme, version iOS de MAEL Scan, amélioration de MAEL Gen...
+- :postal_horn: Le projet est **soutenu par la Zone AMLA Nord** (Académie de notre région) et ses conseillés pédagogiques. Mais je n'arrive pas à suivre le rythme : développement Raspberry Pi, création de la plateforme, version iOS de MAEL Scan, amélioration de MAEL Gen...
 
-### **:rescue_worker_helmet: Pour cela, j'ai décidé de fonder une communauté OpenSource.**
+### **:rescue_worker_helmet: Pour cela, j'ai décidé de fonder une communauté libre et OpenSource.**
 
-- Pour suppléer mes lacunes. 
+- Pour suppléer mes lacunes de _développeur_ amateur. 
 - Pour accélérer le développement de cette application qui peut permettre à de nombreux élèves (enfants & adultes) d'apprendre une nouvelle langue. :grin:
 
 :fr: :gb: :es: :portugal: :brazil: :it: :de: :ru: :jp: :cn: :kr: ...
@@ -92,11 +92,11 @@ En plus de mon travail de classe (préparation, corrections...) je ne trouve plu
 
 C'est la première application créée.
 
-:speaking_head: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur. 
+:speaking_head: Elle permet aux élèves d'écouter le contenu d'un code QR mis sur un document papier par le professeur.
 
 Le code QR peut contenir :
 
-- :page_facing_up: **un mot ou un texte** qui sera lu par une voix de syhtèse ou bien 
+- :page_facing_up: **un mot ou un texte** qui sera lu par une voix de synthèse ou bien 
 - :microphone: un lien vers **un fichier .mp3** :musical_note: (pour le moment hébergé sur un Google Drive).
 
 Actuellement, **MAEL Scan** existe en 3 versions dont une seule est fonctionnelle pour le moment.
@@ -110,9 +110,9 @@ Actuellement, **MAEL Scan** existe en 3 versions dont une seule est fonctionnell
 La première version de **MAEL Scan** a été développée avec [MIT App Inventor](https://appinventor.mit.edu/) (code par blocks).   
 Cela a permis de créer rapidement une version fonctionnelle. Cependant, ce langage est insuffisant pour les développements futurs. 
 
-D'autre part, seule une compilation pour Android <img src="https://cdn.simpleicons.org/android/808080" width="24" height="24" style="vertical-align: middle;" /> est possible. Alors, plusieurs  familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
+D'autre part, seule une compilation pour Android <img src="https://cdn.simpleicons.org/android/808080" width="24" height="24" style="vertical-align: middle;" /> est possible. Alors, plusieurs familles ont acheté un téléphone Android basique pour pouvoir utiliser MAEL. :unamused:
 
-Elle est en cours d'utilisation par plusieurs classes actuellement (dont la mienne :smile: depuis trois ans).
+Elle est en cours d'utilisation par plusieurs classes actuellement (dont ma classe :smile: depuis trois ans).
 
 ---
 
@@ -173,12 +173,12 @@ Il est prévu que le professeur puisse concevoir ses propres activités sur mesu
 
 ![](./readme_assets/Phonofouille-600px.png)
 
-**MAEL Phrase** va proposer par défault une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
+**MAEL Phrase** va proposer par défaut une banque de mots (et d'images) que le professeur pourra enrichir à sa guise.
 
 Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur de recherche** pour choisir des mots dans la base de données.  
 :bookmark_tabs: Cependant, des critères tels que le recherche par sons, position du son dans le mot, par nature du mot, par thèmes ou par nombre de syllabes serait très utile.
 
-:bulb: J'ai donc développé **Phonophouille** (python/SQLite) afin d'explorer la faisabilité d'un tel moteur de recherches.
+:bulb: J'ai donc développé **Phonophouille** (<img src="https://cdn.simpleicons.org/python/808080" width="24" height="24" style="vertical-align: middle;" /> / <img src="https://cdn.simpleicons.org/sqlite/808080" width="24" height="24" style="vertical-align: middle;" />) afin d'explorer la faisabilité d'un tel moteur de recherches.
 
 [![Aller au dépôt](./readme_assets/GitHub-Bandeau-45px.png)](https://github.com/Yobeco/MAEL_Phonofouille)
 
