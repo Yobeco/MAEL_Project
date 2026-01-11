@@ -7,9 +7,9 @@
 
 ## :fr: [Français](https://github.com/Yobeco/MAEL_Project/blob/main/README.fr.md) | :gb: English
 
-# I- Project history:book:
+# I- Project history​ :book:
 
-## A- Genesis:milky_way:
+## A- Genesis​ :milky_way:
 
 I am a teacher at a French school in Managua (Nicaragua). I teach kindergarten or elementary school, depending on the year. Not all of my students speak French (yet), but more importantly, some students do not have French-speaking parents at home to help them.
 
@@ -19,7 +19,7 @@ So I added QR codes (created with an online generator) to the educational materi
 
 tada: :sparkles: They could finally listen to words or short phrases in French at home. This proved very useful for their learning and made me want to improve the system.
 
-## B- Evolution:chart_with_upwards_trend:
+## B- Evolution :chart_with_upwards_trend:
 
 Little by little, MAEL has become a useful tool for several language teachers. Currently, I use it every day with my second and third grade students.
 
@@ -37,7 +37,7 @@ Short video summarizing the current status of the MAEL project:_
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
-## C- Prospective:eyes:
+## C- Prospective :eyes:
 
 fire: Several tasks are currently urgent:
 
@@ -58,7 +58,7 @@ fire: Several tasks are currently urgent:
 | Phonofouille | [Available](https://github.com/Yobeco/MAEL_Phonofouille) |
 
 
-## D- Conclusion: checkered_flag:
+## D- Conclusion : checkered_flag:
 
 ### :man_teacher: I'm just a teacher who taught myself programming.
 
@@ -78,7 +78,7 @@ In addition to my classroom work (preparation, grading, etc.), I no longer have 
 
 ---
 
-# II- Applications of the MAEL project:gear:
+# II- Applications of the MAEL project :gear:
 
 ---
 
@@ -136,7 +136,7 @@ It is planned that “MAEL Scan Pi” (provisional name) will become an attracti
 
 ---
 
-## B- MAEL Gen:computer:
+## B- MAEL Gen :computer:
 
 ![](./readme_assets/MAEL_Gen.png)
 
