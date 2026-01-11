@@ -58,7 +58,7 @@ fire: Several tasks are currently urgent:
 | Phonofouille | [Available](https://github.com/Yobeco/MAEL_Phonofouille) |
 
 
-## D- Conclusion : checkered_flag:
+## D- Conclusion :checkered_flag:
 
 ### :man_teacher: I'm just a teacher who taught myself programming.
 
@@ -175,7 +175,9 @@ bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibilit
 
 ---
 
-# III- Get involved in the MAEL project! ![](./readme_assets/MAEL-48px.png)
+# III- Get involved in the MAEL project!
+
+![](./readme_assets/MAEL-48px.png)
 
 Please email me at this address for more details:
 
