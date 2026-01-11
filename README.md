@@ -122,7 +122,7 @@ For the moment, only the interface has been coded. I am currently stuck on imple
 
 ---
 
-### 3- MAEL Scan - Version without phone:no_mobile_phones:
+### 3- MAEL Scan - Version without phone :no_mobile_phones:
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
