@@ -82,7 +82,7 @@ In addition to my classroom work (preparation, grading, etc.), I no longer have 
 
 ---
 
-## A- MAEL Scan: iPhone:
+## A- MAEL Scan :iPhone:
 
 ![](./readme_assets/MAEL-Scan2-seul-350px.png)
 
@@ -147,7 +147,7 @@ It runs on computers (Linux/MacOS/Win) and allows you to easily configure the co
 
 ---
 
-## C- MAEL Phrase: globe_with_meridians:
+## C- MAEL Phrase :globe_with_meridians:
 
 ### 1- The sentence creation app :speaking_head:
 
@@ -175,7 +175,7 @@ bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibilit
 
 ---
 
-# III- Get involved in the MAEL project!
+# III- Get involved in the MAEL project! 
 
 Please email me at this address for more details:
 
@@ -190,6 +190,5 @@ We need contributors who have:
 * HTML/JavaScript/CSS skills,
 * PostgreSQL skills.
 * :pencil2: We also need an illustrator to create a **library of royalty-free images** for MAEL Phrase.
-* Knowledge of LibreOffice macros <img src="https://cdn.simpleicons.org/LibreOffice/FFFF" width="24" height="24" style="vertical-align: middle;" />
 
 ---
