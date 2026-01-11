@@ -6,7 +6,7 @@
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
-## :fr: Français| :gb: [English](https://github.com/Yobeco/MAEL_Project) 
+## :fr: French| :gb: [Anglais](https://github.com/Yobeco/MAEL_Project) 
 
 # I- Histoire du projet :book:
 
@@ -175,7 +175,7 @@ Afin, de créer ses propres activités, le professeur aura besoin d'un **moteur 
 
 ---
 
-# III- Participez au projet MAEL !
+# III- Participez au projet MAEL !  ![](./readme_assets/MAEL_48px.png)
 
 Écrivez-moi à cette adresse pour plus de détails :
 
@@ -190,6 +190,5 @@ Nous avons besoin de contributeurs ayant :
 * des compétences en HTML/JavaScript/CSS,
 * des compétences en PostgreSQL.
 * :pencil2: Nous avons également besoin d'un(e) illustrateur / illustratrice pour créer une **bibliothèque d'images libres de droits** pour MAEL Phrase.
-* des connaissances en macros pour LibreOffice <img src="https://cdn.simpleicons.org/LibreOffice/FFFF" width="24" height="24" style="vertical-align: middle;" />
 
 ---
