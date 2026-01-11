@@ -175,7 +175,7 @@ bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibilit
 
 ---
 
-# III- Get involved in the MAEL project! 
+# III- Get involved in the MAEL project! ![](./readme_assets/MAEL-48px.png)
 
 Please email me at this address for more details:
 
