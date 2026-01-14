@@ -6,7 +6,7 @@
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
-## :fr: French| :gb: [Anglais](https://github.com/Yobeco/MAEL_Project) 
+## :fr: Français| :gb: [Anglais](https://github.com/Yobeco/MAEL_Project) 
 
 # I- Histoire du projet :book:
 
@@ -34,7 +34,7 @@ Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer u
 
 Ce fut la naissance de **MAEL Phrase**.
 
-_Petite vidéo résumant où en est le projet MAEL actuellement :_
+:arrow_forward:  _Petite vidéo résumant où en est le projet MAEL actuellement :_ :film_strip:
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
