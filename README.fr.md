@@ -34,7 +34,7 @@ Par ailleurs, sous l'inspiration d'un collègue, j'ai commencé à développer u
 
 Ce fut la naissance de **MAEL Phrase**.
 
-### :arrow_forward:  _Petite vidéo résumant où en est le projet MAEL actuellement :_ :film_strip:
+### :arrow_forward:  _Petite vidéo résumant où en est le projet MAEL actuellement :_ :video_camera:
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
