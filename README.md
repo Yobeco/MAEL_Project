@@ -33,7 +33,7 @@ In addition, inspired by a colleague, I began developing a JavaScript applicatio
 
 This was the birth of **MAEL Phrase**.
 
-:arrow_forward: Short video summarizing the current status of the MAEL project:_ :film_strip:
+### :arrow_forward: Short video summarizing the current status of the MAEL project:_ :film_strip:
 
 [![IMAGE ALT TEXT HERE](./readme_assets/Video_thumb.png)](https://www.youtube.com/watch?v=qW8FHrZ1HIo)
 
