@@ -41,7 +41,7 @@ This was the birth of **MAEL Phrase**.
 
 ## C- Prospective :eyes:
 
-fire: Several tasks are currently urgent:
+:fire: Several tasks are currently urgent:
 
 **MAEL Scan** requires an **iOS** version because there are quite a few users who have iPhones (already started in Kotlin).
 
