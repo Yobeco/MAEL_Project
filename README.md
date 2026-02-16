@@ -1,6 +1,6 @@
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
-**Author**: Yonnel Bécognée, teacher
+**Author**: Yonnel Bécognée, teacher  
 **Co-author**: François Varlet
 
 [![License: Free Non-Commercial](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
