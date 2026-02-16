@@ -1,7 +1,8 @@
 
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
-**Autor**: Yonnel Bécognée, maestro   
+**Autor**: Yonnel Bécognée, maestro
+
 **Coautor**: François Varlet
 
 [![Licencia: Libre No Comercial](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
@@ -42,7 +43,7 @@ _Pequeño video que resume el estado actual del proyecto MAEL:_
 
 ## C- Perspectivas :eyes:
 
-:fire: Actualmente varias tareas son urgentes:
+ :fire: Actualmente varias tareas son urgentes:
 
 **MAEL Scan** requiere una versión **iOS** porque hay varios usuarios que tienen un iPhone (ya iniciada en Kotlin).
 
