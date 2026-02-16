@@ -5,7 +5,9 @@
 
 [![License: Free Non-Commercial](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
-## :fr: [Français](https://github.com/Yobeco/MAEL_Scan/blob/main/README.fr.md) | :es: [Español](https://github.com/Yobeco/MAEL_Scan/blob/main/README.es.md) | :gb: English
+## :fr: [Français](https://github.com/Yobeco/MAEL_Project/blob/main/README.fr.md) | :es: [Español](https://github.com/Yobeco/MAEL_Project/blob/main/README.es.md) | :gb: English
+
+---
 
 # I- Project history​ :book:
 

@@ -8,6 +8,8 @@
 
 ## :fr: [Français](https://github.com/Yobeco/MAEL_Project/blob/main/README.fr.md) | :es: Español | :gb: [English](https://github.com/Yobeco/MAEL_Project/blob/main/README.md)
 
+---
+
 # I- Historia del proyecto:book:
 
 ## A- Génesis:milky_way:
