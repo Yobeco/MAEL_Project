@@ -130,7 +130,7 @@ For the moment, only the interface has been coded. I am currently stuck on imple
 
 Being aware of the problems posed by **excessive cell phone use among young children**, I quickly felt remorseful about putting one in the hands of preschool and elementary school children.
 
-bulb: So I started developing a version of MAEL Scan (Python) on a **Raspberry Pi** board equipped with an E-paper display. An initial prototype is already functional.
+:bulb: So I started developing a version of MAEL Scan (Python) on a **Raspberry Pi** board equipped with an E-paper display. An initial prototype is already functional.
 
 It is planned that “MAEL Scan Pi” (provisional name) will become an attractive 3D-printed object loaned to families, a tangible symbol of their entry into a new learning experience.
 
@@ -168,7 +168,8 @@ It is expected that teachers will be able to design their own customized activit
 
 **MAEL Phrase** will offer a default word bank (and image bank) that teachers can add to as they wish.
 
-In order to create their own activities, teachers will need a **search engine** to select words from the database.
+In order to create their own activities, teachers will need a **search engine** to select words from the database.  
+
 :bookmark_tabs: However, criteria such as searching by sound, position of the sound in the word, type of word, theme, or number of syllables would be very useful.
 
 bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibility of such a search engine.
