@@ -10,9 +10,9 @@
 
 ---
 
-# I- Historia del proyecto:book:
+# I- Historia del proyecto :book:
 
-## A- Génesis:milky_way:
+## A- Génesis :milky_way:
 
 Soy maestro en una escuela francesa en Managua (Nicaragua). Enseño en jardín de infancia o primaria, según el año. No todos mis estudiantes hablan francés (todavía), pero lo más importante es que algunos estudiantes no tienen padres francófonos en casa que los ayuden.
 
@@ -22,7 +22,7 @@ Así que añadí códigos QR (creados con un generador en línea) a los material
 
 :tada: :sparkles: Finalmente podían escuchar palabras o frases cortas en francés en casa. Esto resultó muy útil para su aprendizaje y me motivó a mejorar el sistema.
 
-## B- Evolución:chart_with_upwards_trend:
+## B- Evolución :chart_with_upwards_trend:
 
 Poco a poco, MAEL se ha convertido en una herramienta útil para varios profesores de idiomas. Actualmente, lo utilizo todos los días con mis alumnos de segundo y tercer grado.
 
@@ -80,7 +80,7 @@ Además de mi trabajo en el aula (preparación, correcciones, etc.), ya no tengo
 
 ---
 
-# II- Aplicaciones del proyecto MAEL:gear:
+# II- Aplicaciones del proyecto MAEL :gear:
 
 ## A- MAEL Scan: iPhone:
 
@@ -122,7 +122,7 @@ Por el momento, solo se ha codificado la interfaz. Actualmente estoy atascado co
 
 ---
 
-### 3- MAEL Scan - Versión sin teléfono:no_mobile_phones:
+### 3- MAEL Scan - Versión sin teléfono :no_mobile_phones:
 
 ![](./readme_assets/MAEL-Rpi-150px.png)
 
@@ -147,7 +147,7 @@ Funciona en ordenadores (Linux/MacOS/Win) y permite configurar fácilmente el co
 
 ---
 
-## C- MAEL Phrase:globe_with_meridians:
+## C- MAEL Phrase :globe_with_meridians:
 
 ### 1- La aplicación de creación de frases :speaking_head:
 
