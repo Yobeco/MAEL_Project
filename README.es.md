@@ -44,11 +44,11 @@ _Pequeño video que resume el estado actual del proyecto MAEL:_
 
  :fire: Actualmente varias tareas son urgentes:
 
-**MAEL Scan** requiere una versión **iOS** porque hay varios usuarios que tienen un iPhone (ya iniciada en Kotlin).
+- **MAEL Scan** requiere una versión **iOS** porque hay varios usuarios que tienen un iPhone (ya iniciada en Kotlin).
 
-**MAEL Phrase** es solo una página pequeña y limitada (entre otras cosas, no usa Gemini 2.5). Necesita convertirse en una verdadera **plataforma con seguimiento de las actividades de los estudiantes**.
+- **MAEL Phrase** es solo una página pequeña y limitada (entre otras cosas, no usa Gemini 2.5). Necesita convertirse en una verdadera **plataforma con seguimiento de las actividades de los estudiantes**.
 
-**MAEL Scan** para primaria sigue siendo otra oportunidad para que el niño tenga un teléfono en la mano. Por eso comencé a desarrollar una versión que funcione en un **Raspberry Pi**.
+- **MAEL Scan** para primaria sigue siendo otra oportunidad para que el niño tenga un teléfono en la mano. Por eso comencé a desarrollar una versión que funcione en un **Raspberry Pi**.
 
 :keyboard: Lista de desarrollos en curso:
 
