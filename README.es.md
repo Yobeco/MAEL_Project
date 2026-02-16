@@ -82,7 +82,7 @@ Además de mi trabajo en el aula (preparación, correcciones, etc.), ya no tengo
 
 # II- Aplicaciones del proyecto MAEL :gear:
 
-## A- MAEL Scan : iPhone:
+## A- MAEL Scan :iPhone:
 
 ![](./readme_assets/MAEL-Scan2-seul-350px.png)
 
