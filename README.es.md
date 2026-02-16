@@ -1,8 +1,7 @@
 
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
-**Autor**: Yonnel Bécognée, maestro
-
+**Autor**: Yonnel Bécognée, maestro   
 **Coautor**: François Varlet
 
 [![Licencia: Libre No Comercial](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
