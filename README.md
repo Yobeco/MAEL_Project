@@ -84,7 +84,7 @@ In addition to my classroom work (preparation, grading, etc.), I no longer have 
 
 ---
 
-## A- MAEL Scan :iPhone:
+## A- MAEL Scan :iphone:
 
 ![](./readme_assets/MAEL-Scan2-seul-350px.png)
 
