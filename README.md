@@ -19,7 +19,7 @@ Being self-taught in programming, I had the idea of putting plain text into a QR
 
 So I added QR codes (created with an online generator) to the educational materials that the children took home.
 
-tada: :sparkles: They could finally listen to words or short phrases in French at home. This proved very useful for their learning and made me want to improve the system.
+:tada: :sparkles: They could finally listen to words or short phrases in French at home. This proved very useful for their learning and made me want to improve the system.
 
 ## B- Evolution :chart_with_upwards_trend:
 
