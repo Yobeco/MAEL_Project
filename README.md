@@ -90,7 +90,7 @@ In addition to my classroom work (preparation, grading, etc.), I no longer have 
 
 This is the first application created.
 
-speaking_head: It allows students to listen to the content of a QR code placed on a paper document by the teacher.
+:speaking_head: It allows students to listen to the content of a QR code placed on a paper document by the teacher.
 
 The QR code can contain:
 
