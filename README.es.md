@@ -1,7 +1,7 @@
 
 ![](./readme_assets/Logo-MAEL-alpha-H.svg)
 
-**Autor**: Yonnel Bécognée, maestro
+**Autor**: Yonnel Bécognée, maestro  
 
 **Coautor**: François Varlet
 
