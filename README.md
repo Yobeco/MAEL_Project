@@ -43,11 +43,11 @@ This was the birth of **MAEL Phrase**.
 
 :fire: Several tasks are currently urgent:
 
-**MAEL Scan** requires an **iOS** version because there are quite a few users who have iPhones (already started in Kotlin).
+- **MAEL Scan** requires an **iOS** version because there are quite a few users who have iPhones (already started in Kotlin).
 
-**MAEL Phrase** is only a small, limited page (among other things, it does not use Gemini 2.5). It needs to become a true **platform with student activity tracking**.
+- **MAEL Phrase** is only a small, limited page (among other things, it does not use Gemini 2.5). It needs to become a true **platform with student activity tracking**.
 
-**MAEL Scan** for primary school children is yet another opportunity for children to have a phone in their hands. So I started developing a version that runs on a **Raspberry Pi**.
+- **MAEL Scan** for primary school children is yet another opportunity for children to have a phone in their hands. So I started developing a version that runs on a **Raspberry Pi**.
 
 :keyboard: List of ongoing developments:
 
