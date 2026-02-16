@@ -68,7 +68,7 @@ In addition to my classroom work (preparation, grading, etc.), I no longer have 
 
 ### **MAEL is beyond me!** :sweat_smile:
 
-*:trophy: MAEL Scan is currently **being used in several classrooms in Central America and North America**, where teachers are suggesting improvements.
+:trophy: MAEL Scan is currently **being used in several classrooms in Central America and North America**, where teachers are suggesting improvements.
 * :postal_horn: The project is **supported by Zone AMLA Nord** (our regional academy) and its educational advisors. But I can't keep up with the pace: developing Raspberry Pi, creating the platform, the iOS version of MAEL Scan, improving MAEL Gen...
 
 ### **:rescue_worker_helmet: To do this, I decided to start an open-source community.**
