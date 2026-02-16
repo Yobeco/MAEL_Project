@@ -172,7 +172,7 @@ In order to create their own activities, teachers will need a **search engine** 
 
 :bookmark_tabs: However, criteria such as searching by sound, position of the sound in the word, type of word, theme, or number of syllables would be very useful.
 
-bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibility of such a search engine.
+:bulb: So I developed **Phonophouille** (python/SQLite) to explore the feasibility of such a search engine.
 
 [![Go to repository](./readme_assets/GitHub-Banner-45px.png)](https://github.com/Yobeco/MAEL_Phonofouille)
 
